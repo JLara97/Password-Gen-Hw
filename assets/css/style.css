@@ -1,0 +1,38 @@
+body
+{
+    background-color: lightgrey;
+}
+
+.container
+{
+    width: 1080px;
+    background-color: #eee;
+}
+
+header
+{
+   text-align: center;
+   margin-top: 50px;
+   padding: 20px;
+}
+
+h2
+{
+    padding: 15px;
+}
+
+textarea
+{
+    position: relative;
+    width: 90%;
+    height: 100px;
+    left: 45px;
+}
+
+button
+{
+    position: relative;
+    left: 130px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
